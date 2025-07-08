@@ -100,7 +100,7 @@ JWT is used for authentication
 Input data is validated and sanitized
 
 🔗 Project Repository
-https://github.com/your-username/shoppyglobe-backend
+https://github.com/Manish019/Shoppyglobe_E-commerce_Backend
 
 
 👉 **Live Repository:** [GitHub Link](https://github.com/your-username/shoppyglobe-backend)
